@@ -1,0 +1,13 @@
+{
+   "MyResult" : {
+      "AccountID" : "12345",
+      "Result" : {
+         "Course" : "blah",
+         "Score" : "10.0"
+      },
+      "User" : {
+         "Name" : "blah blah",
+         "Email" : "blah@blah.com"
+      }
+   }
+}

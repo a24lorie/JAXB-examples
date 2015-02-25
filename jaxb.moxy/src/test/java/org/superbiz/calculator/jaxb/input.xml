@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyResult>
+	<AccountID>12345</AccountID>
+	<User>
+		<Name>blah blah</Name>
+		<Email>blah@blah.com</Email>
+	</User>
+	<Result>
+		<Course>blah</Course>
+		<Score>10.0</Score>
+	</Result>
+</MyResult>
